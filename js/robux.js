@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         Add Robux on Roblox 1.2
+// @Ashuduikq96       Add Robux on Roblox 1.2
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Robux Hack
 // @author       You
 // @match        https://www.roblox.com/*
-// @grant        none
+// @grant        100000
 // ==/UserScript==
 
 (function() {
